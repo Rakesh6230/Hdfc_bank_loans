@@ -4,6 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
  integer raki;
+	<main>
+	   maintainer "raki"	
+	<main>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
