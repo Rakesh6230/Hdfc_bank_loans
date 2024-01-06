@@ -7,7 +7,7 @@
 	<main>
 	   maintainer "raki"
         maintainer "mahesh"	
-	  maintainer "madhu"
+	 
 	<main>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
